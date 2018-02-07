@@ -56,8 +56,8 @@ Such an implementation will look like:
 
 and inside the query method we add:
 
-	if (requested_hours[input_hours] == true)
-		if (requested_minutes[input_minutes] == true)
+	if (requested_hours[input_hours])
+		if (requested_minutes[input_minutes])
 			return true;
 		else
 			requested_minutes[input_minutes] = true
