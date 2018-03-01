@@ -1,5 +1,5 @@
 /*
-*	© Superharmonic Technologies
+*	Â© Superharmonic Technologies
 *	Pavlos Sakoglou
 *
 *  ========================================================
@@ -9,9 +9,9 @@
 */
 
 //*** Three test cases:	
-//						1) Simple insertion and querying
-//						2) Bad input cases
-//						3) Performance and stress testing
+//		1) Simple insertion and querying
+//		2) Bad input cases
+//		3) Performance and stress testing
 //
 //******************************************************************
 
